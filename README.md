@@ -5,11 +5,16 @@
 <h2 align="left">Hi 👋! My name is Dimitri and I'm a fullstack software developer from Belgium 🚀</h2>
 <p>&nbsp;</p>
 
-  <img align="right" style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=eldala07" height="150" alt="languages graph"  />
-
-  <img align="right" style="float: right;" src="https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20GitHub%20stats&username=eldala07" height="150" alt="stats graph"  />
-
-<p align="left">🕵️ Electromech. eng. background <br>💻 Software developer <br>💏 Married with 1 boy <br>🏋️‍ Fitness and Running <br>📖 Love to read <br>🌱 Excited to learn everyday </p>
+<div float="left" align="left">
+🕵️ Electromechanical engineer background <br>
+💻 Software developer <br>
+💏 Married with 1 boy
+</div>
+<div float="right" align="right">
+🏋️‍ Fitness and Running <br>
+📖 Love to read <br>
+🌱 Excited to learn everyday 
+</div>
 
 <br/>
 
@@ -78,6 +83,13 @@
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@dimitri.uytterhoeven&theme=default" alt="Layout with last medium posts"  />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=eldala07" height="150" alt="languages graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20GitHub%20stats&username=eldala07" height="150" alt="stats graph"  />
 </div>
 
 <br/>
