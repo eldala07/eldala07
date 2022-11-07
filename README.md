@@ -5,16 +5,15 @@
 <h2 align="left">Hi 👋! My name is Dimitri and I'm a fullstack software developer from Belgium 🚀</h2>
 <p>&nbsp;</p>
 
-<div float="left" align="left">
+<img align="right" style="float: right;" height="200" src="./hexagons.png" alt="hexagons"/>
+<p align="left">
 🕵️ Electromechanical engineer background <br>
 💻 Software developer <br>
-💏 Married with 1 boy
-</div>
-<div float="right" align="right">
+💏 Married with 1 boy <br>
 🏋️‍ Fitness and Running <br>
 📖 Love to read <br>
 🌱 Excited to learn everyday 
-</div>
+</p>
 
 <br/>
 
