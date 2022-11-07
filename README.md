@@ -5,7 +5,8 @@
 <h2 align="left">Hi 👋! My name is Dimitri and I'm a fullstack software developer from Belgium 🚀</h2>
 <p>&nbsp;</p>
 
-<img align="right" style="float: right;" height="200" src="./hexagons.png" alt="hexagons"/>
+
+  <img align="right" style="float: right;" src="https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&locale=en&hide_border=true&custom_title=My%20GitHub%20stats&username=eldala07" height="150" alt="stats graph"  />
 <p align="left">
 🕵️ Electromechanical engineer background <br>
 💻 Software developer <br>
@@ -72,23 +73,24 @@
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
 </div>
 
-<br>
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eldala07/eldala07/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/eldala07/eldala07/output/snake.svg" alt="Snake animation" />
+</div>
 
 <br>
+
+
+<!--
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&username=eldala07" height="150" alt="languages graph"  />
+</div>
+-->
+
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@dimitri.uytterhoeven&theme=default" alt="Layout with last medium posts"  />
-</div>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=eldala07" height="150" alt="languages graph"  />
-
-  <img src="https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20GitHub%20stats&username=eldala07" height="150" alt="stats graph"  />
 </div>
 
 <br/>
