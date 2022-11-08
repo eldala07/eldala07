@@ -10,7 +10,7 @@
 <p align="left">
 🕵️ Electromechanical engineer background <br>
 💻 Software developer <br>
-💏 Married with 1 boy <br>
+💏 Married and have 1 boy <br>
 🏋️‍ Fitness and Running <br>
 📖 Love to read <br>
 🌱 Excited to learn everyday 
