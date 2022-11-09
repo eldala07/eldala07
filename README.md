@@ -18,10 +18,11 @@
 
 <br/>
 
-<h3>I'm currently learning 🔭</h3>
+<h3>I'm currently exploring 🔭</h3>
 <ul>
 <li>Websockets with Socket.io</li>
 <li>Mobile development with Flutter and Dart</li>
+<li>Workflows automations with n8n</li>
 </ul>
 <br/>
 
