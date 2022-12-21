@@ -96,7 +96,7 @@
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@dimitri.uytterhoeven&theme=default" alt="Layout with last medium posts"  />
 </div>
 
-<h3>Found anything useful or simply want to show your support? 👊</h3>
+<h3>Found anything useful or simply want to show your support? 👊<br> Feel free to</h3>
 <a href="https://www.buymeacoffee.com/duytterhoeven" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 117px !important;" ></a>
 
 <br/>
