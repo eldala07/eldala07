@@ -20,9 +20,10 @@
 
 <h3>I'm currently exploring 🔭</h3>
 <ul>
-<li>Websockets with Socket.io</li>
-<li>Mobile development with Flutter and Dart</li>
-<li>Workflows automations with n8n</li>
+<li>Websockets with <a href="https://socket.io/">Socket.io</a></li>
+<li>Mobile development with <a href="https://flutter.dev/">Flutter and Dart</a></li>
+<li>Workflows automations with <a href="https://n8n.io/">n8n</a></li>
+<li>Lot of languages on <a href="https://adventofcode.com/">Advent of Code</a> puzzles</li>
 </ul>
 <br/>
 
