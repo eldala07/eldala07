@@ -20,6 +20,7 @@
 
 <h3>I'm currently exploring 🔭</h3>
 <ul>
+<li>T3 Stack Apps (Nextjs) <a href="https://create.t3.gg/">t3.gg</a></li>
 <li>Websockets with <a href="https://socket.io/">Socket.io</a></li>
 <li>Mobile development with <a href="https://flutter.dev/">Flutter and Dart</a></li>
 <li>Workflows automations with <a href="https://n8n.io/">n8n</a></li>
