@@ -28,7 +28,7 @@
 </ul>
 <br/>
 
-<img align="right" style="float: right;" height="150" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429.gif"  />
+<img align="right" style="float: right;" height="150" width="200" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429.gif"  />
 <h3>My favorite techs 🔥</h3>
 
 ###
